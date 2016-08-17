@@ -1,0 +1,8 @@
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\bin\Debug\appSesion1.exe.config
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\bin\Debug\appSesion1.exe
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\bin\Debug\appSesion1.pdb
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\obj\Debug\appSesion1.csprojResolveAssemblyReference.cache
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\obj\Debug\appSesion1.Properties.Resources.resources
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\obj\Debug\appSesion1.csproj.GenerateResource.Cache
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\obj\Debug\appSesion1.exe
+D:\repositoriolocal\Fundamentos-UPC-v1.0\Sesion 1\appSesion1\appSesion1\obj\Debug\appSesion1.pdb
